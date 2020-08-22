@@ -40,10 +40,10 @@ section.chicken>h2{
     background-color:#F8F8FF ;
 }
 section.beef>h2{
-    background-color: white;
+    background-color: #FAFAD2;
 }
 section.sushi>h2{
-    background-color: white;
+    background-color: #D3D3D3;
 }
 section>p{
     color : white;
